@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+  #tiktok {
+    font-weight: 900;
+    color: aliceblue; 
+    text-shadow:
+      red 1.5px 1.5px 1px,aqua -1px -1.5px 1px;
+
+  }
+      
+  
+p {
+    color: red;
+    background-color: white;
+}
